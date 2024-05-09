@@ -6,7 +6,8 @@
       "author": "Harper Lee",
       "image_url": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780061120084",
-      "reviews": []
+      "year": 1960,
+      "description": "A novel set in the American South during the Great Depression, dealing with themes of racism and morality."
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "author": "George Orwell",
       "image_url": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
       "ISBN": "9780451524935",
-      "reviews": []
+      "year": 1984,
+      "description": "A dystopian novel set in a totalitarian society, exploring themes of government surveillance and control."
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "author": "F. Scott Fitzgerald",
       "image_url": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780743273565",
-      "reviews": []
+      "year": 1925,
+      "description": "A novel set in the Jazz Age, depicting the American Dream and its corruption in the pursuit of wealth."
     },
     {
       "id": 3,
@@ -30,7 +33,8 @@
       "author": "Jane Austen",
       "image_url": "https://m.media-amazon.com/images/I/41xS13jH89L.jpg",
       "ISBN": "9780141439518",
-      "reviews": []
+      "year": 1813,
+      "description": "A classic novel of manners, exploring themes of love, class, and social expectations in 19th-century "
     },
     {
       "id": 4,
@@ -38,7 +42,8 @@
       "author": "J.K. Rowling",
       "image_url": "https://m.media-amazon.com/images/I/91wKDODkgWL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780590353427",
-      "reviews": []
+      "year": 1997,
+      "description":"The first book in the Harry Potter series, following the adventures of a young wizard, Harry Potter, and his friends at Hogwarts School of Witchcraft and Wizardry."
     },
     {
       "id": 5,
@@ -46,7 +51,8 @@
       "author": "J.D. Salinger",
       "image_url": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF1000,1000_QL80_DpWeblab_.jpg",
       "ISBN": "9780316769488",
-      "reviews": []
+      "year": 1951,
+      "description": "A novel narrated by a teenage boy, Holden Caulfield, as he navigates life and deals with issues of identity, belonging, and alienation."
     },
     {
       "id": 6,
@@ -54,7 +60,8 @@
       "author": "J.R.R. Tolkien",
       "image_url": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_DpWeblab_.jpg",
       "ISBN": "9780547928227",
-      "reviews": []
+      "year": 1997,
+      "description": "A fantasy novel following the journey of Bilbo Baggins, a hobbit who joins a group of dwarves on a quest to reclaim their homeland from a dragon."
     },
     {
       "id": 7,
@@ -62,7 +69,8 @@
       "author": "Virginia Woolf",
       "image_url": "https://m.media-amazon.com/images/I/41GWqsNHAPL.jpg",
       "ISBN": "9780156907392",
-      "reviews": []
+      "year": 1927,
+      "description": "A novel exploring the complexities of family relationships, memory, and the passage of time." 
     },
     {
       "id": 8,
@@ -70,7 +78,8 @@
       "author": "Herman Melville",
       "image_url": "https://m.media-amazon.com/images/I/61t0x7HGZmL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9781853260087",
-      "reviews": []
+      "year": 1851,
+      "description": "A novel following the obsessive quest of Captain Ahab to kill the white whale, Moby Dick, which destroyed his ship and severed his leg."
     },
     {
       "id": 9,
@@ -78,7 +87,8 @@
       "author": "Oscar Wilde",
       "image_url": "https://m.media-amazon.com/images/I/41VNT4E0rXL.jpg",
       "ISBN": "9780486278070",
-      "reviews": []
+      "year": 1890,
+      "description": "A novel about a young man, Dorian Gray, who sells his soul in exchange for eternal youth, while his portrait ages instead."
     },
     {
       "id": 10,
@@ -86,7 +96,8 @@
       "author": "Leo Tolstoy",
       "image_url": "https://m.media-amazon.com/images/I/71wXZB-VtBL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780143039990",
-      "reviews": []
+      "year": 1869,
+      "description": "An epic novel set against the backdrop of the Napoleonic Wars, exploring themes of love, war, and the nature of power."
     },
     {
       "id": 11,
@@ -94,7 +105,8 @@
       "author": "J.R.R. Tolkien",
       "image_url": "https://m.media-amazon.com/images/I/7125+5E40JL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780261102385",
-      "reviews": []
+      "year": 1954,
+      "description": "A fantasy epic following the quest to destroy the One Ring and defeat the Dark Lord Sauron, set in the world of Middle-earth."
     },
     {
       "id": 12,
@@ -102,7 +114,8 @@
       "author": "Aldous Huxley",
       "image_url": "https://m.media-amazon.com/images/I/81zE42gT3xL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780060850524",
-      "reviews": []
+      "year": 1932,
+      "description": "A dystopian novel depicting a future society where people are genetically engineered and conditioned."
     },
     {
       "id": 13,
@@ -110,7 +123,8 @@
       "author": "Charlotte Brontë",
       "image_url": "https://m.media-amazon.com/images/I/91zU70Aw9IS._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780142437209",
-      "reviews": []
+      "year": 1847,
+      "description": "A novel following the life of Jane Eyre, an orphan who becomes a governess and falls in love with her employer, Mr. Rochester."
     },
     {
       "id": 14,
@@ -118,7 +132,8 @@
       "author": "Mark Twain",
       "image_url": "https://m.media-amazon.com/images/I/41efoeCAvZL.jpg",
       "ISBN": "9780143107323",
-      "reviews": []
+      "year": 1884,
+      "description": "A novel following the adventures of Huck Finn, a young boy who escapes his abusive father and travels down the Mississippi River with a runaway slave, Jim."
     },
     {
       "id": 15,
@@ -126,7 +141,8 @@
       "author": "Leo Tolstoy",
       "image_url": "https://m.media-amazon.com/images/I/91F9WNEThJL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780143035008",
-      "reviews": []
+      "year": 1877,
+      "description": "A novel exploring the consequences of an extramarital affair between Anna Karenina and Count Vronsky, set in 19th-century Russia."
     },
     {
       "id": 16,
@@ -134,7 +150,8 @@
       "author": "Homer",
       "image_url": "https://m.media-amazon.com/images/I/41VqA4YOjEL.jpg",
       "ISBN": "9780140268867",
-      "reviews": []
+      "year": 1910,
+      "description": "An epic poem following the journey of the Greek hero Odysseus as he tries to return home after the Trojan War."
     },
     {
       "id": 17,
@@ -142,7 +159,8 @@
       "author": "Mary Shelley",
       "image_url": "https://m.media-amazon.com/images/I/419OvuRfXCL.jpg",
       "ISBN": "9780141439471",
-      "reviews": []
+      "year": 1818,
+      "description": "A novel about a scientist, Victor Frankenstein, who creates a sentient creature through a scientific experiment, leading to tragic consequences."
     },
     {
       "id": 18,
@@ -150,7 +168,8 @@
       "author": "Fyodor Dostoevsky",
       "image_url": "https://m.media-amazon.com/images/I/5157Xn+sKiL.jpg",
       "ISBN": "9780143107637",
-      "reviews": []
+      "year": 1866,
+      "description": "A novel following the mental anguish and moral dilemmas of Rodion Raskolnikov, a young student who commits a murder."
     },
     {
       "id": 19,
@@ -158,7 +177,8 @@
       "author": "John Steinbeck",
       "image_url": "https://m.media-amazon.com/images/I/81yN7h6yG-L._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780143039433",
-      "reviews": []
+      "year": 1939,
+      "description": "A novel depicting the struggles of a family during the Great Depression as they migrate from Oklahoma to California in search of a better life."
     },
     {
       "id": 20,
@@ -166,7 +186,16 @@
       "author": "Fyodor Dostoevsky",
       "image_url": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
       "ISBN": "9780374528379",
-      "reviews": []
+      "year": 1880,
+      "description": "A novel that explores deep philosophical questions through the story of the three Karamazov brothers and their father, Fyodor Pavlovich Karamazov."
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "This is a test message."
     }
   ]
 }
